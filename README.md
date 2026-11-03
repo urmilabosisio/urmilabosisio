@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Urmila!
 
-<!--
-**urmilabosisio/urmilabosisio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD researcher in Applied Mathematics with a strong background in numerical analysis, adaptive algorithms, and mathematical modeling.
 
-Here are some ideas to get you started:
+I'm passionate about applying mathematical reasoning and programming to real-world challenges in Data Science, Artificial Intelligence, and Advanced Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Programming:** Python, SQL, MATLAB, C
+- **Data Analytics:** pandas, NumPy, PostgreSQL, Power BI
+- **Artificial Intelligence:** Search algorithms, Minimax, knowledge representation
+- **Mathematics:** Numerical Analysis, Optimization, Approximation Theory
+
+### Featured Projects
+- [E-Commerce Sales Analytics](https://github.com/urmilabosisio/ecommerce-sales-analytics)
+- [Harvard CS50 AI Portfolio](https://github.com/urmilabosisio/harvard-cs50-ai-portfolio)
+
+### Current Learning
+Harvard CS50's Introduction to Artificial Intelligence with Python — edX.
