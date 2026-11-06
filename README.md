@@ -12,22 +12,26 @@ I'm passionate about turning complex mathematical problems into practical soluti
 - Strong mathematical background and analytical problem-solving skills.
 - Interested in Data Science, Machine Learning, AI, and Business Intelligence.
 - Continuously developing my programming and data analytics skills.
+- **Microsoft Certified: SQL AI Developer Associate (DP-800).**
 - Looking to transition into industry and contribute to innovative, data-driven projects.
 
 ## Technical Skills
 
-**Programming:** Python, SQL, MATLAB, C/C++
+**Programming:** Python, SQL, T-SQL, MATLAB, C/C++
 
 **Data Analysis:** pandas, NumPy, Matplotlib, Excel
 
 **Business Intelligence:** Power BI, DAX, Data Visualization
 
-**AI & Machine Learning:** Search Algorithms, Knowledge Representation, Machine Learning Fundamentals
+**AI & Machine Learning:** Search Algorithms, Knowledge Representation, Machine Learning Fundamentals, Vector Search, Retrieval-Augmented Generation (RAG)
+
+**Databases & Cloud:** Microsoft Azure SQL Database, Microsoft Fabric, SQL Query Optimization
 
 **Tools:** Git, GitHub
 
 ## Education & Certifications
 
+- **Microsoft:** Microsoft Certified: SQL AI Developer Associate (DP-800) — November 2026
 - **HarvardX / edX:** CS50's Introduction to Artificial Intelligence with Python
 - **DataCamp:** Intermediate Python, SQL, Intermediate SQL, Joining Data in SQL
 - **London School of Business Administration:** Data Analytics Fundamentals, Data Visualisation, Statistical Analysis for Business, Advanced Excel for Business
@@ -70,9 +74,8 @@ I enjoy learning new technologies, collaborating with people from different back
 
 ## Currently Preparing For
 
-I'm currently preparing for two Microsoft certification exams:
+I'm currently preparing for the following Microsoft certification exam:
 
-- **PL-300 – Microsoft Power BI Data Analyst Associate**
-- **DP-800 – Microsoft Certified: Fabric Data Engineer Associate (beta exam)**
+- **PL-300 – Microsoft Certified: Power BI Data Analyst Associate**
 
-My goal is to strengthen my expertise in Power BI, Microsoft Fabric, data modeling, analytics, and modern data engineering.
+My goal is to further strengthen my expertise in Power BI, data modeling, analytics, Microsoft Fabric, and modern data engineering, building on the knowledge gained through my **Microsoft SQL AI Developer Associate certification**.
